@@ -1,0 +1,10 @@
+print('Hello WORLD')
+hey 
+
+this is amazing
+hello world 
+welcome to data science world
+civil engineering sucks 
+This life sux actUALLY
+Peace was never an optionn 
+nothing is permanent in this cursed world
